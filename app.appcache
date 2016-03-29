@@ -1,0 +1,38 @@
+CACHE MANIFEST 
+# v201602291306
+# ===========cache static resouce
+# p1
+img/bgcn.png
+img/bgen.png
+img/B1.png
+img/L1&L2.png
+img/L3.png
+img/L4.png
+img/L5.png
+img/map.png
+
+# other
+img/transparent.png
+
+# css
+css/app.css
+
+# js
+js/zepto/zepto.min.js
+js/motion/landscape.min.js
+js/app.js
+
+
+
+# ===========Use from network if available 
+NETWORK: 
+db
+tracking
+weChat
+http://res.wx.qq.com
+http://open.weixin.qq.com
+https://api.weixin.qq.com
+http://wx.qlogo.cn
+
+# ===========Fallback content 
+FALLBACK: 

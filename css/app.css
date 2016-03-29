@@ -1,0 +1,62 @@
+/*!
+ *
+ * Copyright 2016 CREATEC(www.createcdigital.com)
+ *
+ */
+
+@charset "utf-8";
+
+/* reset */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{margin:0;padding:0}
+body{height:100%;}
+html{height:100%;overflow-x:hidden;}
+body,input,button,textarea,select{font-size:16px; font-family: "SimHei",Tahoma,Helvetica,Arial; color:#000;}
+h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}
+table{border-collapse:collapse;border-spacing:0}
+fieldset,img{border:0}
+li,dd{list-style:none}
+a{color:#d30000;text-decoration:none}
+a:hover,a:active{text-decoration:underline}
+section,article,aside,header,footer,nav,dialog,figure,hgroup{display:block}
+img{max-width:100%;}
+.hide{display: none;}
+/*-- index.html
+====================================================== */
+/* p1 */
+.p1{padding:0px; margin:0px; overflow:hidden; height:14441.8px;width:640px;}
+.p1 .in-1{position: absolute; height:58px; width:370px; left:175px;font-size:28px; font-width:5px; background-color:transparent;color:white;border:0; border-color:transparent; text-decoration:none; padding-left:16px;-webkit-appearance: none;}
+.p1 .e-1{position:absolute; top:13781px;}		  
+.p1 .e-2{position:absolute; top:13862px;}
+.p1 .e-3{position:absolute; top:13941px;}
+.p1 .e-4{position:absolute; top:14021px;}
+.p1 .e-5{position:absolute; top:14097px;}
+.p1 .e1{position:absolute; top:6340px; left:10%;width: 80%;}
+.p1 .e2{position:absolute; top:7275px; left:10%;width: 80%;}
+.p1 .e3{position:absolute; top:8310px; left:10%;width: 80%;}
+.p1 .e4{position:absolute; top:9370px; left:10%;width: 80%;}
+.p1 .e5{position:absolute; top:10400px; left:10%;width: 80%;}
+.p1 .map{position:absolute; top:11565px; left:10%;width: 80%;}
+.p1 .button{position:absolute; height:60px; width:108px; left:267px; top:14190px;}
+.p1 .hit{position:absolute; top:14330px; left:120px; width:400px; height:50px; 
+	border:0 solid red;font-size:28px;color:#A89A7B; display:block; text-align:center;}
+
+/* p2 */
+.p2{padding:0px; margin:0px; overflow:hidden; height:14441.8px;width:640px;}
+.p2 .in-1{position: absolute; height:58px; width:370px; left:175px;font-size:28px; font-width:5px; background-color:transparent;color:white;border:0; border-color:transparent; text-decoration:none; padding-left:16px;-webkit-appearance: none;}
+.p2 .e-1{position:absolute; top:13822px;}		  
+.p2 .e-2{position:absolute; top:13903px;}
+.p2 .e-3{position:absolute; top:13982px;}
+.p2 .e-4{position:absolute; top:14062px;}
+.p2 .e-5{position:absolute; top:14138px;}
+.p2 .e1{position:absolute; top:6340px; left:10%;width: 80%;}
+.p2 .e2{position:absolute; top:7260px; left:10%;width: 80%;}
+.p2 .e3{position:absolute; top:8310px; left:10%;width: 80%;}
+.p2 .e4{position:absolute; top:9320px; left:10%;width: 80%;}
+.p2 .e5{position:absolute; top:10370px; left:10%;width: 80%;}
+.p2 .map{position:absolute; top:11600px; left:10%;width: 80%;}
+.p2 .button1{position:absolute; height:60px; width:120px; left:267px; top:14250px;}
+.p2 .hit1{position:absolute; top:14315px; width:100%; height:50px; 
+	border:0 solid red;font-size:28px;color:#A89A7B; display:block; text-align:center;}
+
+/*mask*/
+.mask {display: none;position: absolute;top: center;background-color: rgba(0,0,0,0.6);z-index: 1;left: 0px;width: 100%;height: 14441.8px;}
